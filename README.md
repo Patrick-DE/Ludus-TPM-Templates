@@ -39,3 +39,12 @@ To make it work and build a compatible version of the packer plugin `proxmox` fo
     > /opt/ludus/resources/packer/plugins/github.com/hashicorp/proxmox/packer-plugin-proxmox_v1.2.3_x5.0_linux_amd64_SHA256SUM
     ```
 9. Now you can just run `ludus templates build` without any issues.
+
+
+## License
+
+GPLv3
+
+## Author Information
+
+This role was created by [Patrick-DE](https://github.com/Patrick-DE), for [Ludus](https://ludus.cloud/).
